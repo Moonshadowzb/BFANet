@@ -1,2 +1,2 @@
-# BFANet2
+# BFANet
 Code of the paper BFANet
